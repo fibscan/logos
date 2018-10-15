@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" fill-rule="nonzero">
+            <rect id="Rectangle-3-Copy" fill="#266CFF" transform="translate(128.000000, 128.000000) scale(1, -1) translate(-128.000000, -128.000000) " x="0" y="0" width="256" height="256" rx="128"></rect>
+            <g id="Group-5" transform="translate(42.787535, 42.787535)" fill="#3080FE" stroke="#FFFFFF" stroke-width="14">
+                <g id="Group-2-Copy-8" transform="translate(85.212465, 85.575071) rotate(45.000000) translate(-85.212465, -85.575071) translate(37.711048, 13.053824)">
+                    <rect id="Rectangle-13-Copy-5" x="0" y="0" width="47.5014164" height="94.799015" rx="23.7507082"></rect>
+                    <path d="M47.5014164,95.7470051 L26.6007932,95.7470051 C11.9095808,95.7470051 -1.1588995e-12,83.862975 -1.16249781e-12,69.2032809 L-1.16529009e-12,23.6997537 C-1.1619488e-12,37.3123268 11.0588964,48.3474976 24.7007365,48.3474976 L71.2521246,48.3474976 C84.3692786,48.3474976 95.0028329,58.9582388 95.0028329,72.0472514 C95.0028329,72.3647449 94.9965763,72.6807804 94.9841795,72.9952415 C94.9965763,73.3097027 95.0028329,73.6257381 95.0028329,73.9432317 L95.0028329,121.342739 C95.0028329,134.431752 84.3692786,145.042493 71.2521246,145.042493 C58.1349707,145.042493 47.5014164,134.431752 47.5014164,121.342739 L47.5014164,95.7470051 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
